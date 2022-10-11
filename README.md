@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaquelineCastSx
 - 👀 I’m interested in FrontEnd developing
 - 🌱 I’m currently learning Bootstrap, Java SE and C# with Unity
-- 💞️ I’m looking to collaborate on some FrontEnd projects to grow my portfolio
+- 💞️ I’m looking to collaborate on some FrontEnd projects to grow 
 - 📫 How to reach me ...
 
 <!---
