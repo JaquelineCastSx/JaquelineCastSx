@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaquelineCastSx
-- 👀 I’m interested in FrontEnd developing
-- 🌱 I’m currently learning Bootstrap, Java SE and C# with Unity
+- 👀 I’m interested in FrontEnd developing, I know HTML, Css, JS, Tailwind css, SQL and a bit of node.js
+- 🌱 I’m currently learning Angular, Vue.js and some phyton
 - 💞️ I’m looking to collaborate on some FrontEnd projects to grow 
 - 📫 How to reach me ...
 
